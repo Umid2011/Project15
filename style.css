@@ -1,0 +1,16 @@
+.div1{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5CFvNZVrQTr8Bg_BZiyZkD4y3VPz1gXfWKg&s);
+    margin: 50px;
+    width: 400px;
+    height: 400px;
+}
+.div2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: -350px 500px;
+}
+h1{
+    width: 250px;
+}
+a{
+    margin: 70px 0px;
+}
